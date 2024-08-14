@@ -1,0 +1,5 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: AgendaClientes txt, configuración: Debug Any CPU ------
+1>C:\Users\Victor\source\repos\AgendaClientes txt\Program.cs(404,127,404,133): error CS0103: El nombre 'pedido' no existe en el contexto actual
+1>Compilación del proyecto "AgendaClientes txt.csproj" terminada -- ERROR.
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========
