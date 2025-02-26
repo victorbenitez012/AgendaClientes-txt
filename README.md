@@ -1,4 +1,6 @@
 Agenda de Clientes y Pedidos
+
+
 Este programa es una aplicación de consola en C# que permite gestionar una agenda de clientes y sus pedidos. La aplicación ofrece funcionalidades para agregar, buscar, actualizar y borrar clientes, así como para agregar y mostrar pedidos asociados a estos clientes. Además, los pedidos se almacenan en archivos separados por fecha, lo que facilita su consulta y gestión.
 
 Características Principales
@@ -151,4 +153,4 @@ Contribuciones
 Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar un pull request con tus mejoras. ¡Todas las contribuciones son bienvenidas!
 
 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles. by insider
